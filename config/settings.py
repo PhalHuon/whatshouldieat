@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'recipe.apps.RecipeConfig'
+    'recipe.apps.RecipeConfig',
+    'ingredient_swap.apps.Ingredient_SwapConfig'
 ]
 
 MIDDLEWARE = [
