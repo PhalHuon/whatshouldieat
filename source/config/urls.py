@@ -19,6 +19,4 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('recipe/')
-    # example: 127:0:0...1/admin
 ]
